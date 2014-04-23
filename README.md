@@ -1,4 +1,4 @@
-mtomic_puppet_nginx_custom
+mtomic-puppet-nginx-custom
 ==========================
 
 Brian Mercer's Nginx Custom package containing the purge module as well ad SPDY.
